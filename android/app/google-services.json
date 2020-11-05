@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "423421028928",
+    "firebase_url": "https://agant-fdrhbe.firebaseio.com",
+    "project_id": "agant-fdrhbe",
+    "storage_bucket": "agant-fdrhbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423421028928:android:c7da601421771f61eb8da5",
+        "android_client_info": {
+          "package_name": "io.pakaporn.firebasedemo.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423421028928-dos7aoapmr3fr76rras9dvb6oqoj7u8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.pakaporn.firebasedemo.firebasedemo",
+            "certificate_hash": "5dcc4fc4a9ba300ad8c38840f5306b6279616953"
+          }
+        },
+        {
+          "client_id": "423421028928-fojvuo9cb3nv9h7n1206ks12pn62ltrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwTu6-uoLG_E04hzQHG8pTSRqZJBp7TFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423421028928-fojvuo9cb3nv9h7n1206ks12pn62ltrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
